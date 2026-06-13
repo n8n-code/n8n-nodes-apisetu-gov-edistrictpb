@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-apisetu-gov-edistrictpb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Punjab government's online portal for certificates like Residence, SC/ST, OBC.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-apisetu-gov-edistrictpb",
